@@ -2,7 +2,7 @@
 body {
     background-color: #2f2f2f;
     color: beige;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Montserrat', Tahoma, Verdana, sans-serif;
     margin: 0;
     padding: 20px;
     line-height: 1.6;
@@ -60,18 +60,18 @@ h1 {
 }
 
 .leaflet-popup-content-wrapper {
-    background-color: #2a2a2a;
-    color: beige;
+    background-color: #2a2a2a !important;
+    color: beige !important;
     border-radius: 10px;
 }
 
 .leaflet-popup-tip {
-    background-color: #2a2a2a;
+    background-color: #2a2a2a !important;
 }
 
 .leaflet-popup-content button {
     background: #444;
-    color: beige;
+    color: beige !important;
     border: none;
     padding: 5px 10px;
     border-radius: 5px;
